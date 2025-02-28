@@ -299,3 +299,6 @@
 [03:22:01 | 28-02-2025] Last Claim Point: 26/02/2025 16:26:20
 [03:22:03 | 28-02-2025] ✅ Points claimed for 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4
 [03:22:03 | 28-02-2025] ✅ Node started for 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4
+[08:38:41 | 28-02-2025] Wallet Address: 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4
+[08:38:41 | 28-02-2025] Node Points: 247883
+[08:38:41 | 28-02-2025] Last Claim Point: 27/02/2025 20:22:02
